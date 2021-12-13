@@ -6,7 +6,7 @@
 
 I studied Finance:moneybag:. But I have changed my career to server developer. I have project experiences using Python.
 I have been learning making server using JavaScript (node.js, nest.js)
-I passionate about learning new tech, Hopping be a full stack developer.
+I passionate about learning new tech.
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![JS](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-fdff24?style=plastic&logo=javaScript&logoColor=white)  ![Gphql](https://img.shields.io/badge/GRAPHQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-7B1CBD?style=plastic&logo=Graphql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=mysql&logoColor=white) ![POSTGRASQL](https://img.shields.io/badge/POSTGRESQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2b24ff?style=plastic&logo=postgresql&logoColor=white) 
